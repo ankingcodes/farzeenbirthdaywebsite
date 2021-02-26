@@ -12,6 +12,20 @@ function App() {
     <p> 
     I understand you're going through a tough time in your life, but I truly believe that you'll conquer success by facing each every challenge bravely as you already have. I wish this year brings new people, new opportunities to grow in your life and takes you closer to living the dream.
     </p>
+    <p> 
+    With this new year comes new responsibilities and challenges, and you should be prepared to face them. Remember that from now on you're on your own and nobody will hold you accountable. As I always say, keep your eyes open to the reality and don't fall in the comfort of the virtual. Most people don't know what's going on, but you do and I hope you will stay true to yourself. 
+  </p>
+    <p> 
+    <em>
+    That being said, remember I'll always <strong>love you</strong> and be with you forever. We're a team and we will always stay strong ! ❤
+    </em>
+    </p>
+
+    <p> 
+    <em>
+     Love, Ankush Bhardwaj
+    </em>
+    </p>
     </Container>
   );
 }
